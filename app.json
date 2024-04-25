@@ -1,0 +1,33 @@
+{
+	"name": "اللهم صلي علي سيدنا محمد و علي اله و صحبه و سلم",
+	"description": "بوت حذف حسابات تليجرام",
+	"logo": "https://telegra.ph/file/5116db79f852db113875c.jpg",
+	"keywords": [
+		"telegram",
+		"bot",
+		"python",
+		"pyrogram"
+	],
+    "env": {
+        "ELHYBA": {
+            "description": "6985066804:AAGJwY9XXbitwUYKr-dqBK8Qtm-rkNFlwug",
+            "value": ""
+        },
+        "API_HASH": {
+            "description": "688506e29b7a58b24eae6823f73d372a",
+            "value": ""
+        },
+        "API_ID": {
+            "description": "24711840",
+            "value": ""
+	   }
+	},
+	"buildpacks": [
+		{
+			"url": "heroku/python"
+		}
+	]
+}
+
+
+
